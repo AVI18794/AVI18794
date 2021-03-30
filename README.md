@@ -12,4 +12,4 @@
 
 
 
-[![# Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVI18794&count_private=true&show_icons=true&theme=dark)](https://github.com/AVI18794/github-readme-stats)
+[![<b> Avinash's GitHub stats<b>](https://github-readme-stats.vercel.app/api?username=AVI18794&count_private=true&show_icons=true&theme=dark)](https://github.com/AVI18794/github-readme-stats)
