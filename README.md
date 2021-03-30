@@ -8,4 +8,4 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
-
+[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVI18794)](https://github.com/AVI18794/github-readme-stats)
