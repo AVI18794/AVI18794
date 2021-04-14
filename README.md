@@ -1,6 +1,7 @@
 ![Total Views](https://komarev.com/ghpvc/?username=AVI18794&color=green)
 
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 🔭 I’m currently working on DEEP LEARNING  AND MACHINE LEARNING
 - 🌱 I’m currently learning QUANTUM COMPUTING AND NATURAL LANGUAGE PROCESSING
