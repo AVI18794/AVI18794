@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=AVI18794&color=green)
-![Visitor Count](https://profile-counter.glitch.me/{AVI18794}/count.svg)
+![Total Views](https://komarev.com/ghpvc/?username=AVI18794&color=green)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on DEEP LEARNING  AND MACHINE LEARNING
